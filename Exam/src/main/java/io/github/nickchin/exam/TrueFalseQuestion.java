@@ -9,6 +9,6 @@ package io.github.nickchin.exam;
  *
  * @author nickc
  */
-public class TrueFalseQuestion implements Questions{
+public class TrueFalseQuestion implements Question{
     
 }

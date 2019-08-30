@@ -9,6 +9,6 @@ package io.github.nickchin.exam;
  *
  * @author nickc
  */
-public class OpenAnswerQuestion {
+public class OpenAnswerQuestion implements Question{
     
 }
