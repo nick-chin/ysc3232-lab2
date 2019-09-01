@@ -1,0 +1,15 @@
+<exam id = "demo exam">
+<question type = "mcq" qsn = "What is the value of pi?" correctanswer = "A">
+<option>3.14</option>
+<option>1.32</option>
+<option>2.28</option>
+<option>65.5</option>
+</question>
+<question type = "tfq" qsn = "Is there a an answer to this quesition?" correctanswer = "True"/>
+<question type = "oaq" qsn = "Why does the sun set everyday?" correctanswer = "The sun sets because the Earth rotates."/>
+<question type = "mcq" qsn = "Which of the following is a primate?" correctanswer = "C">
+<option>Starfish</option>
+<option>Dogs</option>
+<option>Apes</option>
+</question>
+</exam>
